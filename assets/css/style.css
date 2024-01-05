@@ -71,12 +71,12 @@ img {
 }
   
 .card_data {
-    background-color: var(--container-color);
-    padding: 1.5rem 2rem;
-    border-radius: 1rem;
-    text-align: center;
-    position: relative;
-    z-index: 10;
+  background-color: var(--container-color);
+  padding: 1.5rem 2rem;
+  border-radius: 1rem;
+  text-align: center;
+  position: relative;
+  z-index: 10;
 }
   
 .card_img {
